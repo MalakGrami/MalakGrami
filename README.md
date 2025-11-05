@@ -1,11 +1,11 @@
 ![MasterHead](https://camo.githubusercontent.com/0f2df9c6430300192232520a10bc3f09066cee3c6f1205da8490ac2b1d69d9e5/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966)
 
 <h1 align="center">Hi 👋, I'm Malak Grami</h1>
-<h3 align="center">A passionate Full stack developer from Tunisia</h3>
+<h3 align="center">A passionate SOFTWARE ENGINEER from Tunisia</h3>
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Django,FastApi,Laravel**
+- 💬 Ask me about **React,nextJs,nestJs**
 
 - 📫 How to reach me **gramimalak@gmail.com**
 
